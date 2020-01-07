@@ -8,7 +8,7 @@ Loanee Information (Demographic data like age, income, Identity proof etc.) Loan
 
 This dataset is of 233154 rows with 41 variables. 
 
-Methods and model used:
+**Methods and model used:**
 
 Heatmaps to check for Colinear Relationships.
 
